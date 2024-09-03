@@ -1,0 +1,16 @@
+{
+  "name": "challenge",
+  "version": "1.0.0",
+  "description": "Challenge del curso de Cypress 2024 Empresa Santex",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+
+  },
+  "author": "Carmen Irene Machuca",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.14.1"
+  }
+}

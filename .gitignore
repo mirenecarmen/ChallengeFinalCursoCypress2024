@@ -1,0 +1,6 @@
+node_modules/
+.env
+.DS_Store
+*.log
+#cypress/screenshots/      estas carpetas si se veran
+#cypress/videos/           esta carpeta si se verá
