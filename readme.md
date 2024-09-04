@@ -1,6 +1,20 @@
 
 
-# QA Automation | Trabajo Final -- Empresa Santex
+# # #                QA Automation | Trabajo Final -- Empresa Santex
+
+## Enlaces Importantes
+
+### **Tablero de Trello**
+
+Puedes acceder al tablero de Trello para la gestión de tareas y casos de prueba en el siguiente enlace:
+
+[Trello Board](https://trello.com/b/QELTED0a/reporte-de-bugs-challenge-santex)
+
+### **Google Sheets**
+
+El plan de pruebas ,los resultados y datos relacionados con las pruebas se encuentran en este Google Sheets:
+
+[Google Sheets - Resultados de Pruebas](https://docs.google.com/spreadsheets/d/14Kmt8SbRCPVY_dZMwkahtZT66XONIf27/edit?usp=sharing&ouid=117520889366211862747&rtpof=true&sd=true)
 
 1. Generar un plan de pruebas para posteriormente automatizarlo
 2. Tener instalado cypress
