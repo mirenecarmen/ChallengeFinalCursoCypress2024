@@ -10,11 +10,15 @@ Puedes acceder al tablero de Trello para la gestión de tareas y casos de prueba
 
 [Trello Board](https://trello.com/b/QELTED0a/reporte-de-bugs-challenge-santex)
 
-### **Google Sheets**
+### ** Carpeta con reportes de Bugs **
+
+[Carpeta](https://drive.google.com/drive/folders/1zJ2dFpHnv9GqqqYscOVLcffPr32Opaa5?usp=sharing)
+
+### **Plan de Pruebas en Google Sheets**
 
 El plan de pruebas ,los resultados y datos relacionados con las pruebas se encuentran en este Google Sheets:
 
-[Google Sheets - Resultados de Pruebas](https://docs.google.com/spreadsheets/d/14Kmt8SbRCPVY_dZMwkahtZT66XONIf27/edit?usp=sharing&ouid=117520889366211862747&rtpof=true&sd=true)
+[Google Sheets - Plan de pruebas ](https://docs.google.com/spreadsheets/d/14Kmt8SbRCPVY_dZMwkahtZT66XONIf27/edit?usp=sharing&ouid=117520889366211862747&rtpof=true&sd=true)
 
 1. Generar un plan de pruebas para posteriormente automatizarlo
 2. Tener instalado cypress
